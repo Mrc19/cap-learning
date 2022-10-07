@@ -1,4 +1,4 @@
-# CAP cap-learning
+# CAP cpapp
 _out
 *.db
 connection.properties
@@ -28,3 +28,7 @@ mta_archives/
 # IDEs
 # .vscode
 # .idea
+
+dist/
+resources/
+app/*/package-lock.json
